@@ -1,6 +1,6 @@
 setn={15,10,35, 62, 20,74}
-temp=0
+temporary=0
 for i in setn:
-    if(i>temp):
-        temp=i
-print(temp)
+    if(i>temporary):
+        temporary=i
+print(temporary)
